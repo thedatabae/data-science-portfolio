@@ -1,4 +1,3 @@
-# data-science-github.io
 # Data Scientist 
 Technical Skills: Python, MLOPS, ML
 
